@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard (Excel)
+#  Sales Performance Dashboard (Create Interactive Dashboard Using Excel)
 
 This project is an **interactive Excel dashboard** designed to analyze and visualize sales data from **January–December 2024**. It highlights key performance indicators (KPIs) such as **Total Sales, Total Profit, and Profit Margin**, along with detailed breakdowns by salesperson, category, and state.  
 
@@ -30,3 +30,8 @@ This project is an **interactive Excel dashboard** designed to analyze and visua
 
 ## Purpose
 This project demonstrates how **Excel can be used as a powerful data analytics & visualization tool** for decision-making. It can be adapted to any sales dataset to monitor business performance.  
+---
+## Dashboard
+<img width="1055" height="547" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/dc91e8fa-a6c2-4965-b823-03c10506638a" />
+
+
