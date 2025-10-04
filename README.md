@@ -25,6 +25,8 @@ This project is an **interactive Excel dashboard** designed to analyze and visua
 ## dataset used
 -<a href="https://github.com/Adi2004-max/Sales-Performance-dashboard/blob/main/Dataset.xlsx">Dataset</a>
 
+- Dashboard Interaction
+
 ---
 
 ## Purpose
